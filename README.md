@@ -21,7 +21,7 @@ An AI-powered Resume Analyzer built using <b>Spring Boot</b> that evaluates resu
 <h2>🛠️ Tech Stack</h2>
 <ul>
   <li><b>Backend:</b> Java, Spring Boot</li>
-  <li><b>AI:</b> OpenAI API / LLM</li>
+  <li><b>AI:</b> OpenAI API </li>
   <li><b>Build Tool:</b> Maven</li>
   <li><b>Version Control:</b> Git & GitHub</li>
 </ul>
